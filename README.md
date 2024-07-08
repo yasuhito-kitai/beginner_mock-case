@@ -1,6 +1,6 @@
 # Atte
 Atteはシンプルで直感的に利用できる勤怠管理システムです。
-![alt text](README-img\Atte.jpg)
+![alt text](Atte.jpg)
 
 ## システムの概要
 このシステムは、従業員の勤怠状況を人事評価に反映させるために開発しました。
@@ -48,9 +48,9 @@ Atteはシンプルで直感的に利用できる勤怠管理システムです�
 | ユーザー毎の月別勤怠を一覧表示します |
 
 ## 使用技術
-・PHP 7.4.9
-・Laravel 8.83.27
-・nginx 1.21.1
+・PHP 7.4.9  
+・Laravel 8.83.27  
+・nginx 1.21.1  
 ・MySQL 8.0.26
 
 ## テーブル設計
@@ -95,4 +95,4 @@ php artisan migrate
 ## URL
 - 開発環境：http://localhost/
 - phpMyAdmin:：http://localhost:8080/
-- mailhog::http://localhost:8025/# beginner_mock-case
+- mailhog::http://localhost:8025/
